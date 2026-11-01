@@ -1,130 +1,118 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/yagoborba/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/header-light.svg">
+  <img alt="Yago Borba, Full-Stack Developer focused on systems integration and DevOps. Header styled as a diagnostic console with a live trace of weekly GitHub contributions." src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/header-dark.svg" width="100%">
+</picture>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yagoborba/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/contact-linkedin-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/contact-linkedin-light.svg">
+      <img alt="LinkedIn profile" src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/contact-linkedin-dark.svg" height="44">
+    </picture>
   </a>
-  <a href="mailto:yagoaborba@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  <a href="mailto:yagoaborba@hotmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/contact-email-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/contact-email-light.svg">
+      <img alt="Send an email" src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/contact-email-dark.svg" height="44">
+    </picture>
   </a>
-  <a href="https://stackoverflow.com/users/18186036/yago-borba" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  <a href="https://stackoverflow.com/users/18186036/yago-borba">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/contact-stackoverflow-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/contact-stackoverflow-light.svg">
+      <img alt="Stack Overflow profile" src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/contact-stackoverflow-dark.svg" height="44">
+    </picture>
   </a>
-</div>
+</p>
 
-###
+## `0x01` About
 
-<h1 align="left">👨🏻‍💻 Yago Azevedo Borba</h1>
+I'm a backend-focused full-stack developer who likes building reliable systems end to end: REST APIs and integrations, CI/CD pipelines, mobile apps and, now and then, a microcontroller. I study Software Engineering at UGV and have more than two years of hands-on experience across academic, personal and open-source projects, backed by a solid foundation in network infrastructure.
 
-###
-<p align="left"><strong><code>Desenvolvedor Full-Stack | Integração de Sistemas & DevOps</code></strong></p>
-<p align="left">Sou Desenvolvedor Full-Stack com foco em backend, especializado em entregar sistemas confiáveis. Estudo Engenharia de Software na UGV e tenho mais de 2 anos de experiência prática com desenvolvimento de software em projetos acadêmicos, pessoais e open source, com ênfase em arquitetura de APIs, integração de sistemas e boas práticas de DevOps, aliados a uma base sólida em infraestrutura de redes. Gosto de entender o problema antes de pensar na solução e de aprender algo novo em cada linha de código.</p>
+I prefer to understand the problem before thinking about the solution, and I try to learn something new with every line of code.
 
-###
+```yaml
+name: Yago Azevedo Borba
+role: Full-Stack Developer (backend first)
+focus: [API design, systems integration, DevOps, mobile, embedded]
+studying: B.Sc. Software Engineering @ UGV
+based_in: Santa Catarina, Brazil
+```
 
-<h2 align="left">🚀 Projetos em Destaque</h2>
+## `0x02` Current focus
 
-- **[StackCode](https://github.com/YagoBorba/StackCode):** ecossistema open source de ferramentas para desenvolvedores (CLI publicada no npm e extensão para VS Code) que automatiza Gitflow, commits padronizados, CHANGELOG e versionamento. TypeScript, Node.js, Vitest e GitHub Actions.
-- **[MaxDiagnostic](https://github.com/YagoBorba/MaxDiagnostic):** app multiplataforma em Flutter, com Clean Architecture, para diagnóstico de Wi-Fi e da qualidade da conexão, com teste de velocidade via LibreSpeed e relatório em PDF.
-- **[DevTaskManager](https://github.com/YagoBorba/DevTaskManager):** extensão para Chrome com API REST em ASP.NET Core 8, Entity Framework Core e SQLite, documentada com Swagger.
-- **[WattHouse](https://github.com/YagoBorba/WattHouse):** plataforma web de gestão de energia residencial com React, TypeScript, Firebase e Docker.
+- **BorbaCar Labs**: turning raw OBD-II readings into traceable diagnostics on Android, with an optional Node.js server for AI analysis.
+- **StackCode**: evolving [`@stackcode/cli`](https://www.npmjs.com/package/@stackcode/cli) and its VS Code extension to make Gitflow, commits and releases effortless.
+- **Studies**: Software Engineering at UGV, with side quests in networking and IoT.
 
-###
+## `0x03` Featured projects
 
-<h2 align="left">📊 Estatísticas</h2>
+<p align="center">
+  <a href="https://github.com/YagoBorba/BorbaCarLabs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-borbacarlabs-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-borbacarlabs-light.svg">
+      <img alt="BorbaCar Labs: Android OBD-II diagnostic app in Java with traceable PDF reports and optional AI analysis." src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-borbacarlabs-dark.svg" width="49%">
+    </picture>
+  </a>
+  <a href="https://github.com/YagoBorba/StackCode">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-stackcode-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-stackcode-light.svg">
+      <img alt="StackCode: npm CLI and VS Code extension that automate Gitflow, conventional commits, changelogs and versioning." src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-stackcode-dark.svg" width="49%">
+    </picture>
+  </a>
+  <a href="https://github.com/YagoBorba/MaxDiagnostic">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-maxdiagnostic-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-maxdiagnostic-light.svg">
+      <img alt="MaxDiagnostic: cross-platform Flutter app for Wi-Fi and connection diagnostics with LibreSpeed tests and PDF reports." src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-maxdiagnostic-dark.svg" width="49%">
+    </picture>
+  </a>
+  <a href="https://github.com/YagoBorba/DevTaskManager">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-devtaskmanager-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-devtaskmanager-light.svg">
+      <img alt="DevTaskManager: Chrome extension backed by an ASP.NET Core 8 REST API with Entity Framework Core and SQLite." src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-devtaskmanager-dark.svg" width="49%">
+    </picture>
+  </a>
+  <a href="https://github.com/YagoBorba/WattHouse">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-watthouse-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-watthouse-light.svg">
+      <img alt="WattHouse: residential energy management platform built with React, TypeScript and Firebase." src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-watthouse-dark.svg" width="49%">
+    </picture>
+  </a>
+  <a href="https://github.com/YagoBorba/ESP32-Light-Tracker">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-esp32-light-tracker-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-esp32-light-tracker-light.svg">
+      <img alt="ESP32 Light Tracker: dual-axis solar tracker driven by an ESP32, four LDR sensors and two servos." src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-esp32-light-tracker-dark.svg" width="49%">
+    </picture>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YagoBorba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YagoBorba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center"><sub>More in <a href="https://github.com/YagoBorba?tab=repositories">all repositories</a>.</sub></p>
 
-<br><br>
+## `0x04` Telemetry
 
-<h2 align="left">⚙️ Caixa de Ferramentas (Tech Stack)</h2>
-<table align="center" style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse; color: #ddd; font-family: Arial, sans-serif;">
-  <tr>
-    <!-- Coluna 1: Linguagens e Front-end -->
-    <td style="vertical-align: top; padding: 16px; border-right: 1px solid #444;">
-      <h3 style="display: flex; align-items: center; gap: 8px; font-weight: 600;">
-        <span>🤖</span> Linguagens
-      </h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 24px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" />
-      </div>
-      <h3 style="display: flex; align-items: center; gap: 8px; font-weight: 600;">
-        <span>⚛️</span> Front-end & Mobile
-      </h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 12px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="32" />
-      </div>
-    </td>
-    <!-- Coluna 2: Back-end e Bancos de Dados -->
-    <td style="vertical-align: top; padding: 16px; border-right: 1px solid #444;">
-      <h3 style="display: flex; align-items: center; gap: 8px; font-weight: 600;">
-        <span>🖥️</span> Back-end
-      </h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 24px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET / ASP.NET Core" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="32" />
-      </div>
-      <h3 style="display: flex; align-items: center; gap: 8px; font-weight: 600;">
-        <span>🗄️</span> Bancos de Dados
-      </h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 12px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="32" />
-      </div>
-    </td>
-    <!-- Coluna 3: Cloud, DevOps, Ferramentas e IoT -->
-    <td style="vertical-align: top; padding: 16px;">
-      <h3 style="display: flex; align-items: center; gap: 8px; font-weight: 600;">
-        <span>☁️</span> Cloud & DevOps
-      </h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 24px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="32" />
-      </div>
-      <h3 style="display: flex; align-items: center; gap: 8px; font-weight: 600;">
-        <span>🛠️</span> Ferramentas & Qualidade
-      </h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 24px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" alt="Vitest" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="32" />
-      </div>
-      <h3 style="display: flex; align-items: center; gap: 8px; font-weight: 600;">
-        <span>🔌</span> Hardware & IoT
-      </h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 12px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino / ESP32" width="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="32" />
-      </div>
-    </td>
-  </tr>
-</table>
-<br><br>
-<h2 align="left">🎮 Minhas Contribuições</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/telemetry-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/telemetry-light.svg">
+  <img alt="GitHub telemetry for the last 12 months: contributions gauge, commits, pull requests, issues, stars, public repositories, followers, contribution streaks and language mix." src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/telemetry-dark.svg" width="100%">
+</picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/pacman-contribution-graph.svg">
+  <img alt="Contribution graph animated as a Pac-Man game" src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/footer-light.svg">
+  <img alt="End of report. Assets regenerated automatically every six hours by GitHub Actions." src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/footer-dark.svg" width="100%">
 </picture>
