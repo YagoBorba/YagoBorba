@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="210" viewBox="0 0 580 210" role="img" aria-labelledby="title desc">
+<title id="title">DevTaskManager — Chrome · REST API</title>
+<desc id="desc">Chrome extension for project and task management, backed by an ASP.NET Core 8 REST API with Entity Framework Core, SQLite and Swagger documentation. Built with C#, .NET 8, React, SQLite. Status: stable.</desc>
+<style>
+.mono{font-family:ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace}
+.sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+<rect x="0.5" y="0.5" width="579" height="209" rx="12" fill="#0f141b" stroke="#2a3441"/>
+<rect x="0.5" y="24" width="3" height="20" fill="#ffb547"/>
+<text x="24" y="39" class="mono" font-size="12" font-weight="400" fill="#8b98a5" text-anchor="start" letter-spacing="1">MOD-04  ·  CHROME · REST API</text>
+<rect x="482.4" y="22" width="73.6" height="22" rx="11" fill="none" stroke="#2a3441"/>
+<circle cx="495.4" cy="33" r="4" fill="#4fd1c5"/>
+<text x="506.4" y="37" class="mono" font-size="11" font-weight="400" fill="#4fd1c5" text-anchor="start">STABLE</text>
+<text x="24" y="80" class="sans" font-size="26" font-weight="700" fill="#e6edf3" text-anchor="start">DevTaskManager</text>
+<text x="24" y="110" class="sans" font-size="14" font-weight="400" fill="#8b98a5" text-anchor="start">Chrome extension for project and task management, backed by an</text><text x="24" y="131" class="sans" font-size="14" font-weight="400" fill="#8b98a5" text-anchor="start">ASP.NET Core 8 REST API with Entity Framework Core, SQLite and</text><text x="24" y="152" class="sans" font-size="14" font-weight="400" fill="#8b98a5" text-anchor="start">Swagger documentation.</text>
+<rect x="24" y="168" width="31.2" height="22" rx="5" fill="#0a0e13" stroke="#2a3441"/><text x="33" y="183" class="mono" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="start">C#</text><rect x="63.2" y="168" width="57.6" height="22" rx="5" fill="#0a0e13" stroke="#2a3441"/><text x="72.2" y="183" class="mono" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="start">.NET 8</text><rect x="128.8" y="168" width="51" height="22" rx="5" fill="#0a0e13" stroke="#2a3441"/><text x="137.8" y="183" class="mono" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="start">React</text><rect x="187.8" y="168" width="57.6" height="22" rx="5" fill="#0a0e13" stroke="#2a3441"/><text x="196.8" y="183" class="mono" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="start">SQLite</text>
+<text x="556" y="184" class="mono" font-size="12" font-weight="400" fill="#8b98a5" text-anchor="end">★ 2  ·  MAR 2026</text>
+
+</svg>
