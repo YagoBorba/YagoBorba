@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="210" viewBox="0 0 580 210" role="img" aria-labelledby="title desc">
+<title id="title">StackCode — CLI · VS Code</title>
+<desc id="desc">Open-source developer toolkit: an npm CLI and a VS Code extension that automate Gitflow, conventional commits, changelogs and semantic versioning, so best practices become the easy path. Built with TypeScript, Node.js, Vitest, GitHub Actions. Status: stable.</desc>
+<style>
+.mono{font-family:ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace}
+.sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+<rect x="0.5" y="0.5" width="579" height="209" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="0.5" y="24" width="3" height="20" fill="#a35f00"/>
+<text x="24" y="39" class="mono" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" letter-spacing="1">MOD-02  ·  CLI · VS CODE</text>
+<rect x="482.4" y="22" width="73.6" height="22" rx="11" fill="none" stroke="#d0d7de"/>
+<circle cx="495.4" cy="33" r="4" fill="#0b7a75"/>
+<text x="506.4" y="37" class="mono" font-size="11" font-weight="400" fill="#0b7a75" text-anchor="start">STABLE</text>
+<text x="24" y="80" class="sans" font-size="26" font-weight="700" fill="#1f2328" text-anchor="start">StackCode</text>
+<text x="24" y="110" class="sans" font-size="14" font-weight="400" fill="#59636e" text-anchor="start">Open-source developer toolkit: an npm CLI and a VS Code extension</text><text x="24" y="131" class="sans" font-size="14" font-weight="400" fill="#59636e" text-anchor="start">that automate Gitflow, conventional commits, changelogs and</text><text x="24" y="152" class="sans" font-size="14" font-weight="400" fill="#59636e" text-anchor="start">semantic versioning, so best practices become the easy path.</text>
+<rect x="24" y="168" width="84" height="22" rx="5" fill="#f6f8fa" stroke="#d0d7de"/><text x="33" y="183" class="mono" font-size="11" font-weight="400" fill="#1f2328" text-anchor="start">TypeScript</text><rect x="116" y="168" width="64.19999999999999" height="22" rx="5" fill="#f6f8fa" stroke="#d0d7de"/><text x="125" y="183" class="mono" font-size="11" font-weight="400" fill="#1f2328" text-anchor="start">Node.js</text><rect x="188.2" y="168" width="57.6" height="22" rx="5" fill="#f6f8fa" stroke="#d0d7de"/><text x="197.2" y="183" class="mono" font-size="11" font-weight="400" fill="#1f2328" text-anchor="start">Vitest</text><rect x="253.79999999999998" y="168" width="110.39999999999999" height="22" rx="5" fill="#f6f8fa" stroke="#d0d7de"/><text x="262.79999999999995" y="183" class="mono" font-size="11" font-weight="400" fill="#1f2328" text-anchor="start">GitHub Actions</text>
+<text x="556" y="184" class="mono" font-size="12" font-weight="400" fill="#59636e" text-anchor="end">★ 5  ·  OCT 2025</text>
+
+</svg>

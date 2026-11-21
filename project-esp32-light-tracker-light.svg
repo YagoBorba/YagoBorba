@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="210" viewBox="0 0 580 210" role="img" aria-labelledby="title desc">
+<title id="title">ESP32 Light Tracker — Embedded · IoT</title>
+<desc id="desc">Dual-axis solar tracker: an ESP32 reads four LDR sensors and drives two servos, with Bluetooth manual control, automatic calibration and real-time telemetry. Built with C++, ESP32, PlatformIO, Bluetooth. Status: stable.</desc>
+<style>
+.mono{font-family:ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace}
+.sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+<rect x="0.5" y="0.5" width="579" height="209" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="0.5" y="24" width="3" height="20" fill="#a35f00"/>
+<text x="24" y="39" class="mono" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" letter-spacing="1">MOD-06  ·  EMBEDDED · IOT</text>
+<rect x="482.4" y="22" width="73.6" height="22" rx="11" fill="none" stroke="#d0d7de"/>
+<circle cx="495.4" cy="33" r="4" fill="#0b7a75"/>
+<text x="506.4" y="37" class="mono" font-size="11" font-weight="400" fill="#0b7a75" text-anchor="start">STABLE</text>
+<text x="24" y="80" class="sans" font-size="26" font-weight="700" fill="#1f2328" text-anchor="start">ESP32 Light Tracker</text>
+<text x="24" y="110" class="sans" font-size="14" font-weight="400" fill="#59636e" text-anchor="start">Dual-axis solar tracker: an ESP32 reads four LDR sensors and</text><text x="24" y="131" class="sans" font-size="14" font-weight="400" fill="#59636e" text-anchor="start">drives two servos, with Bluetooth manual control, automatic</text><text x="24" y="152" class="sans" font-size="14" font-weight="400" fill="#59636e" text-anchor="start">calibration and real-time telemetry.</text>
+<rect x="24" y="168" width="37.8" height="22" rx="5" fill="#f6f8fa" stroke="#d0d7de"/><text x="33" y="183" class="mono" font-size="11" font-weight="400" fill="#1f2328" text-anchor="start">C++</text><rect x="69.8" y="168" width="51" height="22" rx="5" fill="#f6f8fa" stroke="#d0d7de"/><text x="78.8" y="183" class="mono" font-size="11" font-weight="400" fill="#1f2328" text-anchor="start">ESP32</text><rect x="128.8" y="168" width="84" height="22" rx="5" fill="#f6f8fa" stroke="#d0d7de"/><text x="137.8" y="183" class="mono" font-size="11" font-weight="400" fill="#1f2328" text-anchor="start">PlatformIO</text><rect x="220.8" y="168" width="77.4" height="22" rx="5" fill="#f6f8fa" stroke="#d0d7de"/><text x="229.8" y="183" class="mono" font-size="11" font-weight="400" fill="#1f2328" text-anchor="start">Bluetooth</text>
+<text x="556" y="184" class="mono" font-size="12" font-weight="400" fill="#59636e" text-anchor="end">★ 3  ·  MAR 2026</text>
+
+</svg>
