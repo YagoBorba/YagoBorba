@@ -44,7 +44,7 @@ based_in: Santa Catarina, Brazil
 
 ## `0x02` Current focus
 
-- **BorbaCar Labs**: turning raw OBD-II readings into traceable diagnostics on Android, with an optional Node.js server for AI analysis.
+- **Diagnostic Profile**: a [Studio](https://yagoborba.github.io/diagnostic-profile/), CLI and GitHub Action that turn profile READMEs like this one into a diagnostic console.
 - **StackCode**: evolving [`@stackcode/cli`](https://www.npmjs.com/package/@stackcode/cli) and its VS Code extension to make Gitflow, commits and releases effortless.
 - **Studies**: Software Engineering at UGV, with side quests in networking and IoT.
 
@@ -55,7 +55,7 @@ based_in: Santa Catarina, Brazil
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-borbacarlabs-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-borbacarlabs-light.svg">
-      <img alt="BorbaCar Labs: Android OBD-II diagnostic app in Java with traceable PDF reports and optional AI analysis." src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-borbacarlabs-dark.svg" width="49%">
+      <img alt="BorbaCar Labs: Android OBD-II diagnostic app in Java with traceable PDF reports, tested on a real car." src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-borbacarlabs-dark.svg" width="49%">
     </picture>
   </a>
   <a href="https://github.com/YagoBorba/StackCode">
@@ -79,11 +79,11 @@ based_in: Santa Catarina, Brazil
       <img alt="DevTaskManager: Chrome extension backed by an ASP.NET Core 8 REST API with Entity Framework Core and SQLite." src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-devtaskmanager-dark.svg" width="49%">
     </picture>
   </a>
-  <a href="https://github.com/YagoBorba/WattHouse">
+  <a href="https://github.com/YagoBorba/diagnostic-profile">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-watthouse-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-watthouse-light.svg">
-      <img alt="WattHouse: residential energy management platform built with React, TypeScript and Firebase." src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-watthouse-dark.svg" width="49%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-diagnostic-profile-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-diagnostic-profile-light.svg">
+      <img alt="Diagnostic Profile: Studio, CLI and GitHub Action that turn a GitHub profile README into a live diagnostic console." src="https://raw.githubusercontent.com/YagoBorba/YagoBorba/output/project-diagnostic-profile-dark.svg" width="49%">
     </picture>
   </a>
   <a href="https://github.com/YagoBorba/ESP32-Light-Tracker">

@@ -15,8 +15,8 @@ export const projects = [
     repo: 'BorbaCarLabs',
     title: 'BorbaCar Labs',
     kind: 'Android · OBD-II',
-    summary: 'Android OBD-II diagnostic app in Java. Reads ELM327 adapters over Bluetooth, BLE or Wi-Fi, explains trouble codes in plain language and exports traceable PDF reports with optional AI analysis.',
-    tags: ['Java 17', 'Android', 'Node.js', 'OBD-II'],
+    summary: 'Android OBD-II diagnostic app in Java. Reads ELM327 adapters over Bluetooth, BLE or Wi-Fi, explains trouble codes in plain language and exports traceable PDF reports. Tested on a real car.',
+    tags: ['Java 17', 'Android', 'Robolectric', 'OBD-II'],
   },
   {
     repo: 'StackCode',
@@ -40,11 +40,11 @@ export const projects = [
     tags: ['C#', '.NET 8', 'React', 'SQLite'],
   },
   {
-    repo: 'WattHouse',
-    title: 'WattHouse',
-    kind: 'Web · Energy',
-    summary: 'Residential energy management platform: register appliances, estimate daily and monthly consumption and track costs with configurable kWh pricing.',
-    tags: ['React', 'TypeScript', 'Firebase', 'Docker'],
+    repo: 'diagnostic-profile',
+    title: 'Diagnostic Profile',
+    kind: 'Studio · GitHub Action',
+    summary: 'Turns a GitHub profile README into a live diagnostic console: animated header, telemetry and project cards as self-hosted SVGs, built from a browser Studio, a CLI or a GitHub Action.',
+    tags: ['JavaScript', 'Node.js', 'SVG', 'GitHub Actions'],
   },
   {
     repo: 'ESP32-Light-Tracker',
